@@ -1,0 +1,20 @@
+{
+  "title": "Chris Cates | Software Engineer",
+  "meta": {
+    "property": {
+      "og:title": "Chris Cates | Software Engineer",
+      "og:description": "Empath. Software Consultant. Entrepreneur.",
+      "og:image": "https://chriscates.ca/img/logo1_small.png",
+      "og:author": "Chris Cates"
+    },
+    "name": {
+      "charset": "UTF-8",
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Empath. Software Consultant. Entrepreneur.",
+      "keywords": "Chris, Cates, Chris Cates, Software, Engineer, Software Engineer",
+      "twitter:title": "Chris Cates | Software Engineer",
+      "twitter:description": "Empath. Software Consultant. Entrepreneur.",
+      "twitter:image:src": "https://chriscates.ca/img/logo1_small.png"
+    }
+  }
+}
