@@ -1,27 +1,13 @@
 {
-  "name": "flatbuffers-visual",
-  "version": "1.0.0",
-  "description": "Flatbuffer visual editor and testing framework.",
+  "name": "react.redux.iso.boilerplate",
   "scripts": {
     "start": "./node_modules/forever/bin/forever ./server.js",
     "server": "node server.js",
     "dev": "node dev.server.js",
     "lint": "eslint src"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LamdaFu/flatbuffers-visual.git"
-  },
-  "keywords": [
-    "react",
-    "webpack"
-  ],
   "author": "Chris Cates",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LamdaFu/flatbuffers-visual/issues"
-  },
-  "homepage": "https://github.com/LamdaFu/flatbuffers-visual",
   "devDependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
